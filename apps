@@ -1,0 +1,14 @@
+[app] (name=fbrun)
+  [Position]	(CENTER)	{0 0}
+  [Layer]	{2}
+[end]
+[app] (name=gvim) (class=Gvim) (role=vim-8037-4201065966-1483563795)
+  [Maximized]	{no}
+[end]
+[app] (name=gvim) (class=Gvim) (role=vim-8135-2848169364-1483563815)
+  [Maximized]	{yes}
+  [Close]	{yes}
+[end]
+[app] (name=gvim) (class=Gvim) (role=vim-8151-2430138104-1483563860)
+  [Maximized]	{no}
+[end]
